@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Proofex</h1>
+<h1 align="center">Hi 👋, I'm Kristijanpecaro Aka Proofex</h1>
 <a href="http://proofexservices.xyz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Proofex" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Proofex-1&label=Profile%20views&color=0e75b6&style=flat" alt="KristijanPecaroz" /> </p>
 
 - 🔭 I’m currently working on [proofexservices.xyz](http://proofexservices.xyz/)
 - 🌱 I’m currently learning **C#**
+- - 🌱 My main account is [Proofex-1](http://github.com/proofex-1)
 
 - 📫 How to reach me [Youtube](http://youtube.com/@proofex) [Discord](http://discord.gg/sibel)
 
