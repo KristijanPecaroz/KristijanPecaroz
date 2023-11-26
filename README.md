@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [proofexservices.xyz](http://proofexservices.xyz/)
 - 🌱 I’m currently learning **C#**
-- - 🌱 My main account is [Proofex-1](http://github.com/proofex-1)
+- 🌱 My main account is [Proofex-1](http://github.com/proofex-1)
 
 - 📫 How to reach me [Youtube](http://youtube.com/@proofex) [Discord](http://discord.gg/sibel)
 
