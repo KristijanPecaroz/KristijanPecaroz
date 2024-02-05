@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C#**
 - 🌱 I'm From Kumanovo
 
-- 📫 How to reach me [Youtube](http://youtube.com/@proofex) [Discord](http://discord.gg/wu2zTv78HD)
+- 📫 How to reach me [Youtube](http://youtube.com/@proofex) [Discord](https://discord.gg/proofexservices)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
